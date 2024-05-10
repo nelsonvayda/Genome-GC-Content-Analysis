@@ -11,7 +11,7 @@ I will be using it to quickly visualize changes in GC content of the genomes of 
 
 ## Usage
 The program can be used directly in the command line using the following command:
-> 'python GCContentScript.py **(path to fasta file/s)** -k **(desired k-mer length)**'
+'python GCContentScript.py **(path to fasta file/s)** -k **(desired k-mer length)**'
 
 I recommend using a value between 1,000 and 10,000 for the k-mer length, lower values will result in difficult to read graphs, and higher values may take a long time to compute.
 I have included a folder called TestData that includes an example output (using 50,000-mers because it looks nice) and a fasta file with a shorter sequence which works nicer but is less realistic to my data.
