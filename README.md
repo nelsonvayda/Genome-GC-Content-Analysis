@@ -7,7 +7,7 @@ matplotlib
 ## Description
 This program is used to create a visualization of the GC content of k-mers of the desired length across a given sequence.
 The input is fasta files and the output is a PDF of a graph showing the GC content of each k-mer based on the position in the sequence.
-I will be using it to quickly visualize changes in GC content of the genomes of phage I isolate to look for areas of potential recent recombination, denoted by major shifts in GC content.
+I will be using it to quickly visualize changes in GC content of the genomes of phage I isolate to look for areas of potential recent recombination, denoted by major shifts in GC content. I'm honestly not sure how useful this will be in its current form, but I will tweak it once I am closer to the point in my research where I need to use it.
 
 ## Usage
 The program can be used directly in the command line using the following command:
