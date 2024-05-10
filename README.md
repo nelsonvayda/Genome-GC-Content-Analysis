@@ -1,7 +1,7 @@
 # **Genome GC Content Analysis Program**
 
 ## Required Python and Packages
-Python 3.9
+Python 3.9\
 matplotlib
 
 ## Description
